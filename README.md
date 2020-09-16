@@ -27,10 +27,11 @@
 * HTTP 통신을 위해 Alamofire 적용
 * AutoLayout을 위해 Snapkit 적용
 * NavigationController 활용
+* 비동기 처리를 위해 RxSwift 적용
 
 ### 출시 이후..
 
-* 비동기 처리를 위해 RxSwift 적용 개발중
+* 이행시, 사행시 기능 제작
 * 퀄리티에 맞는 UI/UX로 변화
 
 ## MUTDA : 나에게 묻다.
@@ -44,6 +45,11 @@
 * 모든 UI를 Storyboard와 NIBs 를 사용하지 않은 Custom Code로 제작
 * AutoLayout을 위해 SnapKit 적용
 * 내부 데이터 저장소르 이용하기 위해 Realm 적용
+
+### 출시 이후..
+
+* Notification 기능 개발
+* 개인 설정 기능 개발
 
 # Skill
 
