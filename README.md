@@ -44,7 +44,8 @@
 
 * 모든 UI를 Storyboard와 NIBs 를 사용하지 않은 Custom Code로 제작
 * AutoLayout을 위해 SnapKit 적용
-* 내부 데이터 저장소르 이용하기 위해 Realm 적용
+* 내부 데이터 저장소를 이용하기 위해 Realm 적용
+* MVVM 패턴 적용
 
 ### 출시 이후..
 
